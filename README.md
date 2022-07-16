@@ -1,13 +1,16 @@
+=================
+  ExtractWifiPwd
+=================
 
-=================
-ExtractWifiPwd
-=================
 
 Dump Wifi Password From Windows Machines.
 
-Usage:
+
+Usage
 git clone https://github.com/Saroj345/ExtractWifiPwd.git
 
-Run:
+
+
+Run
 .\main.exe or go run main.go
 
